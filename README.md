@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/jeronim35396236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeronim35396236" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeronimo sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo sanchez" height="30" width="40" /></a>
-<a href="https://instagram.com/boterojeronimosanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boterojeronimosanchez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/00_jsb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boterojeronimosanchez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
